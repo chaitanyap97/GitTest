@@ -5,7 +5,7 @@
     <classes>
       <class name="GitTestDemo.AppTest">
         <methods>
-          <include name="f"/>
+          <include name="guru99tutorials"/>
         </methods>
       </class> <!-- GitTestDemo.AppTest -->
     </classes>
